@@ -1,0 +1,2 @@
+result/voice_ft.h5 filter=lfs diff=lfs merge=lfs -text
+result/voice_ft.zip filter=lfs diff=lfs merge=lfs -text
