@@ -22,7 +22,7 @@ validation_data_dir = 'dataset/validation'
 
 nb_train_samples = 1100
 nb_validation_samples = 200
-batch_size = 64
+batch_size = 32
 nb_epoch = 30
 
 
